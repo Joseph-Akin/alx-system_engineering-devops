@@ -1,0 +1,4 @@
+/:
+alx-system_engineering-devops  dev   lib    libx32  opt   run	sys  var
+bin			       etc   lib32  media   proc  sbin	tmp
+boot			       home  lib64  mnt     root  srv	usr
